@@ -1,0 +1,5 @@
+Machine filter=lfs diff=lfs merge=lfs -text
+Learning/assignment filter=lfs diff=lfs merge=lfs -text
+2/assignment2-data/LD2011_2014.txt.bak filter=lfs diff=lfs merge=lfs -text
+Machine[[:space:]]Learning/assignment[[:space:]]2/assignment2-data/LD2011_2014.txt.bak filter=lfs diff=lfs merge=lfs -text
+Machine[[:space:]]Learning/assignment[[:space:]]2/assignment2-data/LD2011_2014.txt filter=lfs diff=lfs merge=lfs -text
